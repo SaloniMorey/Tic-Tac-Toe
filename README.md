@@ -11,8 +11,4 @@ A simple **Tic-Tac-Toe** game built using **Java Swing**, allowing two players t
 - ✅ Simple and clean **UI**
 
 
-## 🚀 How to Run
-1. **Clone the repository**  
-   ```sh
-   git clone https://github.com/your-username/TicTacToe-Java.git
-   cd TicTacToe-Java
+
